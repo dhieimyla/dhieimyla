@@ -69,11 +69,7 @@
 
 <div align="center">
 
-<a href="https://github.com/dhieimyla">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhieimyla&layout=compact&langs_count=8&card_width=450&theme=tokyonight&hide_border=true"
-/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhieimyla&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas">
 
 </div>
 
@@ -83,11 +79,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhieimyla&la
 
 <div align="center">
 
-<a href="https://github.com/dhieimyla">
-<img
-src="https://github-readme-stats.vercel.app/api?username=dhieimyla&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github"
-/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=dhieimyla&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
 
 </div>
 

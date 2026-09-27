@@ -1,20 +1,102 @@
-## Bem-vindo(a) ao perfil da Dhieimylla Mayara 😁
+<div align="center">
 
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+# 👋 Olá, eu sou a Dhieimyla!
+
+### 💻 Estudante de Ciência da Computação e desenvolvedora em formação 🇧🇷
+
 </div>
- 
-<br>
- 
-### Chega mais, essas são minhas redes 👇
- 
-<div> 
 
-  <a href="https://instagram.com/dhieimylla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:devdhieimylla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dhieimylla-silva-419b97365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<br>
+
+- 🎓 Atualmente estudo **Ciência da Computação**
+- 💻 Atualmente estou trabalhando em **projetos pessoais**
+- 🌱 Atualmente estou aprendendo **JavaScript, desenvolvimento web e novas tecnologias**
+- 🚀 Buscando transformar ideias em projetos reais
+- 📚 Sempre aprendendo algo novo
+- ☕ Café, código e muita curiosidade
+
+<br>
+
+<!-- 🐍 CONTRIBUIÇÕES -->
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/dhieimyla/dhieimyla/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/dhieimyla/dhieimyla/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Gráfico de contribuições"
+    src="https://raw.githubusercontent.com/dhieimyla/dhieimyla/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
+<br>
+
+<h3>🔗 Conecte-se comigo:</h3>
+
+<p align="left">
+
+<a href="https://github.com/dhieimyla">
+<img src="https://skillicons.dev/icons?i=github" width="42">
+</a>
+
+</p>
+
+<h3>🛠️ Linguagens e ferramentas:</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html" width="42">
+<img src="https://skillicons.dev/icons?i=css" width="42">
+<img src="https://skillicons.dev/icons?i=js" width="42">
+<img src="https://skillicons.dev/icons?i=git" width="42">
+<img src="https://skillicons.dev/icons?i=github" width="42">
+<img src="https://skillicons.dev/icons?i=vscode" width="42">
+
+</p>
+
+<br>
+
+<h3>📊 Minhas linguagens:</h3>
+
+<div align="center">
+
+<a href="https://github.com/dhieimyla">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhieimyla&layout=compact&langs_count=8&card_width=450&theme=tokyonight&hide_border=true"
+/>
+</a>
+
+</div>
+
+<br>
+
+<h3>📈 Minhas estatísticas no GitHub:</h3>
+
+<div align="center">
+
+<a href="https://github.com/dhieimyla">
+<img
+src="https://github-readme-stats.vercel.app/api?username=dhieimyla&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&rank_icon=github"
+/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💙 Obrigada por visitar meu perfil!
+
+⭐ Explore meus projetos e acompanhe minha evolução.
+
 </div>

@@ -69,7 +69,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhieimyla&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas">
+<img
+src="./profile/top-langs.svg"
+alt="Minhas linguagens mais usadas"
+>
 
 </div>
 
@@ -79,7 +82,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhieimyla&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
+<img
+src="./profile/stats.svg"
+alt="Minhas estatísticas no GitHub"
+>
 
 </div>
 

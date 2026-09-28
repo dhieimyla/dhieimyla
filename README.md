@@ -71,8 +71,7 @@
 
 <img
 src="./profile/top-langs.svg">
-alt="Minhas linguagens mais usadas"
->
+
 
 </div>
 
@@ -84,7 +83,7 @@ alt="Minhas linguagens mais usadas"
 
 <img
 src="./profile/stats.svg">
-alt="Minhas estatísticas no GitHub"
+
 >
 
 </div>

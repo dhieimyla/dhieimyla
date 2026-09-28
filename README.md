@@ -70,7 +70,7 @@
 <div align="center">
 
 <img
-src="./profile/top-langs.svg"
+src="./profile/top-langs.svg">
 alt="Minhas linguagens mais usadas"
 >
 
@@ -83,7 +83,7 @@ alt="Minhas linguagens mais usadas"
 <div align="center">
 
 <img
-src="./profile/stats.svg"
+src="./profile/stats.svg">
 alt="Minhas estatísticas no GitHub"
 >
 

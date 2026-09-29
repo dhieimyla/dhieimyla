@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou a Dhieimyla!
+# 👋 Olá, eu sou a Dhieimylla!
 
 ### 💻 Estudante de Ciência da Computação e desenvolvedora em formação 🇧🇷
 
